@@ -12,5 +12,5 @@
         android:layout_marginLeft="20dp"
         android:layout_marginRight="20dp"
         android:background="@drawable/selector_drawable_for_btn"
-        android:textColor="@color/black" />
+        android:textColor="@color/white" />
 </LinearLayout>
